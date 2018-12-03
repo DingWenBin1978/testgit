@@ -1,0 +1,12 @@
+.\obj\app.o: ..\Source\APP\APP.c
+.\obj\app.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\app.o: ..\Source\APP\APP.h
+.\obj\app.o: ..\Source\BSP\BSP.h
+.\obj\app.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\app.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\app.o: ..\Source\BSP\BSP_tim.h
+.\obj\app.o: ..\Source\USB\src\HW_Config.h
+.\obj\app.o: ..\Source\USB\src\platform_config.h
+.\obj\app.o: ..\Source\STM32F10xLib\inc\misc.h
+.\obj\app.o: ..\Source\STM32F10xLib\M3\stm32f10x.h
+.\obj\app.o: ..\Source\STM32F10xLib\M3\core_cm3.h
